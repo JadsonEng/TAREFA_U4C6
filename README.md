@@ -18,6 +18,7 @@ propõe-se a realização da seguinte tarefa individual prática
 - Visual Studio Code;
 - Extensões C/C++, CMAKE e Raspberry Pi Pico no VSCode;
 - Comunicação I2C e UART.
+- Plataforma de Desenvolvimento BitDogLab com placa Raspberry Pi Pico W.
 
 ## 📋 Funcionamento
 
